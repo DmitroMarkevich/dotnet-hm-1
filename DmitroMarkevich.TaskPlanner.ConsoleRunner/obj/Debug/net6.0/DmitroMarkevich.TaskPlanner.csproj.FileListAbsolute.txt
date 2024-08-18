@@ -1,0 +1,15 @@
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner\bin\Debug\net6.0\DmitroMarkevich.TaskPlanner.exe
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner\bin\Debug\net6.0\DmitroMarkevich.TaskPlanner.deps.json
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner\bin\Debug\net6.0\DmitroMarkevich.TaskPlanner.runtimeconfig.json
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner\bin\Debug\net6.0\DmitroMarkevich.TaskPlanner.dll
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner\bin\Debug\net6.0\DmitroMarkevich.TaskPlanner.pdb
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner\obj\Debug\net6.0\DmitroMarkevich.TaskPlanner.csproj.AssemblyReference.cache
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner\obj\Debug\net6.0\DmitroMarkevich.TaskPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner\obj\Debug\net6.0\DmitroMarkevich.TaskPlanner.AssemblyInfoInputs.cache
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner\obj\Debug\net6.0\DmitroMarkevich.TaskPlanner.AssemblyInfo.cs
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner\obj\Debug\net6.0\DmitroMarkevich.TaskPlanner.csproj.CoreCompileInputs.cache
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner\obj\Debug\net6.0\DmitroMarkevich.TaskPlanner.dll
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner\obj\Debug\net6.0\refint\DmitroMarkevich.TaskPlanner.dll
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner\obj\Debug\net6.0\DmitroMarkevich.TaskPlanner.pdb
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner\obj\Debug\net6.0\DmitroMarkevich.TaskPlanner.genruntimeconfig.cache
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner\obj\Debug\net6.0\ref\DmitroMarkevich.TaskPlanner.dll

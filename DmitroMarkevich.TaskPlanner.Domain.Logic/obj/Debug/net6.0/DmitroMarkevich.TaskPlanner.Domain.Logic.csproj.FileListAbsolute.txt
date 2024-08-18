@@ -1,0 +1,15 @@
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner.Domain.Logic\bin\Debug\net6.0\DmitroMarkevich.TaskPlanner.Domain.Logic.deps.json
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner.Domain.Logic\bin\Debug\net6.0\DmitroMarkevich.TaskPlanner.Domain.Logic.dll
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner.Domain.Logic\bin\Debug\net6.0\DmitroMarkevich.TaskPlanner.Domain.Logic.pdb
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner.Domain.Logic\bin\Debug\net6.0\DmitroMarkevich.TaskPlanner.Domain.Models.dll
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner.Domain.Logic\bin\Debug\net6.0\DmitroMarkevich.TaskPlanner.Domain.Models.pdb
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner.Domain.Logic\obj\Debug\net6.0\DmitroMarkevich.TaskPlanner.Domain.Logic.csproj.AssemblyReference.cache
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner.Domain.Logic\obj\Debug\net6.0\DmitroMarkevich.TaskPlanner.Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner.Domain.Logic\obj\Debug\net6.0\DmitroMarkevich.TaskPlanner.Domain.Logic.AssemblyInfoInputs.cache
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner.Domain.Logic\obj\Debug\net6.0\DmitroMarkevich.TaskPlanner.Domain.Logic.AssemblyInfo.cs
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner.Domain.Logic\obj\Debug\net6.0\DmitroMarkevich.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner.Domain.Logic\obj\Debug\net6.0\DmitroMarkevich.TaskPlanner.Domain.Logic.csproj.CopyComplete
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner.Domain.Logic\obj\Debug\net6.0\DmitroMarkevich.TaskPlanner.Domain.Logic.dll
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner.Domain.Logic\obj\Debug\net6.0\refint\DmitroMarkevich.TaskPlanner.Domain.Logic.dll
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner.Domain.Logic\obj\Debug\net6.0\DmitroMarkevich.TaskPlanner.Domain.Logic.pdb
+C:\Users\dmark\RiderProjects\LabDotNet01\DmitroMarkevich.TaskPlanner.Domain.Logic\obj\Debug\net6.0\ref\DmitroMarkevich.TaskPlanner.Domain.Logic.dll
